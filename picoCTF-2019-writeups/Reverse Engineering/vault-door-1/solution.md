@@ -51,5 +51,5 @@ By looking at the charAt() method, we will able to find the character at the giv
   ```
   Hence, by forming charAt(0)-charAt(31) correctly, we will be able to get the flag.
   
-  ``` picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_03f841}  ```
+  ``` Flag: picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_03f841}  ```
     
