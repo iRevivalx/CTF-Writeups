@@ -1,2 +1,2 @@
-# PicoCTF-2019-Writeups
-The picoCTF of CMU was one of the CTFs in which I participated. It is a great competition for all-level players, especially those starting out in the field. 
+# CTF2019-Writeups
+Here are some short write-ups of this year's CTF challenges. I have tried to explain all the steps that have been taken to solve every challenge in a start-friendly fashion ; I hope you will enjoy reading it!
