@@ -19,4 +19,4 @@ Following streams (such as UDP connections) in Wireshark gives a different view 
 
 Therefore, we are able to find the flag in one of the packet.
 
-``` picoCTF{StaT31355_636f6e6e} ```
+``` Flag: picoCTF{StaT31355_636f6e6e} ```
