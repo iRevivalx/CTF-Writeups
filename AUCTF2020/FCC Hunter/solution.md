@@ -1,5 +1,5 @@
 # FCC Hunter
-Points obtained at that point 300
+300 Points obtained at that point before it starts to decay
 
 # Category
 Signals
