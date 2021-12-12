@@ -24,7 +24,7 @@ Upon trying out the !note function, i realised that whatever word you typed, it 
 
 At first, it did not work as i used the command !remember /flag.txt which gives me the output of unable to find the note called **/flag.txt.txt** as shown below.
 
-![Incorrect Flag Output](https://user-images.githubusercontent.com/55530196/145699395-2c33cf93-d8d8-461b-98ff-1afca255e7b0.png)
+![Incorrect Flag Output](https://user-images.githubusercontent.com/55530196/145699450-4d1a6657-c488-4690-a9f2-a02aa482e898.png)
 
 Therefore, i realised that by removing the **.txt** extension, the bot might give me the output of the flag which it did.
 
