@@ -1,1 +1,1 @@
-Due to my enlistment in National Service, I was only able to complete some of the challenges during the first half weekend of the X-MAS CTF competition. This is perhaps one of the interesting CTF i have actually took part in as an individual.
+Due to my enlistment in National Service, I was only able to complete some of the challenges during the first half weekend of the X-MAS CTF competition. This is perhaps one of the most interesting CTFs I have ever participated in.
